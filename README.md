@@ -23,3 +23,5 @@ This project focuses on analyzing sentiments expressed in tweets related to the 
 ## Conclusion:
 
 By incorporating NLP techniques such as tokenization, stopwords removal, and text normalization, the project leverages the power of natural language processing to extract meaningful insights from textual data. These techniques play a crucial role in preparing the text data for sentiment analysis and ML model training, enabling accurate classification of sentiments expressed in COVID-19 related tweets.
+
+DATASET: https://www.kaggle.com/code/bansodesandeep/nlp-predicting-sentiment-of-covid-19-tweets/input?select=Corona_NLP_train.csv
