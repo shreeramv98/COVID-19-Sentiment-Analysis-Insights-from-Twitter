@@ -13,4 +13,5 @@ This project focuses on analyzing sentiments expressed in tweets related to the 
 •	Model Evaluation: The performance of each ML model is rigorously evaluated using metrics such as accuracy, F1-score, precision, recall, and confusion matrices. This allows for the identification of the most effective models in accurately classifying sentiment.
 •	Ranking Models: The ML models are ranked based on their test accuracy, with the top-performing models highlighted for further analysis and interpretation.
 
+## Conclusion:
 By incorporating NLP techniques such as tokenization, stopwords removal, and text normalization, the project leverages the power of natural language processing to extract meaningful insights from textual data. These techniques play a crucial role in preparing the text data for sentiment analysis and ML model training, enabling accurate classification of sentiments expressed in COVID-19 related tweets.
